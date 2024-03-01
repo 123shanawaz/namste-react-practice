@@ -11,7 +11,7 @@
   "author": "md shanawaz",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.11.0",
+    "parcel": "^2.12.0",
     "process": "^0.11.10"
   },
   "dependencies": {
